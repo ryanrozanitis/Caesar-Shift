@@ -1,5 +1,5 @@
 # Caesar-Shift
-Caesar Shift written in assembly that my group and I wrote during my third semester at NJIT in Spring 2021.
+Caesar Shift written in assembly that my group and I wrote in grad school.
 
 ## About
 This project contains a text file of the code, the caesar program, the caesar.s, and caesar.o files for your reference. The code was written in the caesar.s file, everything else was compiled using `as -g -o caesar.o caesarText.s && ld -o caesar caesar.o`. You can make edits directly to the caesar.s file if you wish to play around with the code.
